@@ -1,0 +1,10 @@
+{
+  "name": "Plan Catedral",
+  "short_name": "Catedral",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e6e2d8",
+  "theme_color": "#e6e2d8",
+  "icons": [{ "src": "icono.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
